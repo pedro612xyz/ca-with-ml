@@ -1,0 +1,53 @@
+ndidj-teste1-com-prog-williams.ods
+
+
+ate grupo 18 do 54
+
+dwdz
+d2d1
+
+w = 2
+z = 5
+
+dudy
+
+u=1
+y=1
+
+for ((u=1; u < w; u++)) do
+
+  for (y=1;1 < 10; y++)) do
+
+   imprime 
+        dudy
+  done
+
+done
+
+for ((y =1; y < z; y ++)) do
+
+  imprime dwdy
+ done
+
+
+#### em c
+
+
+
+for (u = 1; u < w; u++) {
+
+ for (y = 1; y <= 10; i++) {
+
+ fprintf(stdout, "%d;d%dd%d;%d", group_count, u, y, pattern_matrix[i + j * cols]); 
+ 
+
+  }
+
+}
+
+
+for ( y = 1; y < z ; y ++) {
+
+ fprintf(stdout, "%d;d%dd%d;%d", group_count, w, y, pattern_matrix[i + j * cols]); 
+}
+						for (j = 0; j < cols; 
